@@ -9,7 +9,7 @@
 boto3==1.14.53
 
 # ssh communication
-paramiko==2.7.2
+paramiko==3.4.0
 cryptography==3.2
 
 # lxd backend
