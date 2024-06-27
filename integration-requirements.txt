@@ -3,3 +3,5 @@
 #
 pycloudlib @ git+https://github.com/canonical/pycloudlib.git@96b146ee1beb99b8e44e36525e18a9a20e00c3f2
 pytest
+requests>=2.32.2 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
