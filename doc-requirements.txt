@@ -3,3 +3,4 @@ m2r
 sphinx<2
 sphinx_rtd_theme
 pyyaml
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
